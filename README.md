@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##### Ph.D in Computer Engineering(A.I/Machine Learning / Deep Learning)
+##### Ph.D in Computer Engineering (A.I / Machine Learning / Deep Learning).
 ##### AiDA Lab. CEO & Research Director. 
 
 <div align=center>
