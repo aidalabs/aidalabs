@@ -1,4 +1,4 @@
-### Hi there 👋
+### Seokhwan Yang 👋
 
 <!--
 **aidalabs/aidalabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Seokhwan Yang
 AiDA Lab. CEO & Research Director. Ph.D in Computer Engineering(A.I/Machine Learning/Deep Learning)
