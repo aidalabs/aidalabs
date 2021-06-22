@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Seokhwan Yang
+AiDA Lab. CEO & Research Director. Ph.D in Computer Engineering(A.I/Machine Learning/Deep Learning)
