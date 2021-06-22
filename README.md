@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 AiDA Lab. CEO & Research Director. Ph.D in Computer Engineering(A.I/Machine Learning/Deep Learning)
+
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faidalabs)](https://hits.seeyoufarm.com) 
+
+</div>
