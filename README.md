@@ -21,7 +21,8 @@ Here are some ideas to get you started:
   - Neural Network/Deep Learning Model
   - Brain Science
   - Quantitative(Quant) Investing / Stock Prediction
-  - Smart Factory
+  - Data Science / Data Analysis
+  - Smart Factory / Smart Home
 
 <div align=center>
 
