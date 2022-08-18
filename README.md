@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Ph.D in Computer Engineering (A.I / Machine Learning / Deep Learning).
-#### AiDA Lab. CEO & Research Director. 
+
+- 컴퓨터 공학 박사 (세부 전공: 인공지능/신경망/딥러닝)
+- 아이다랩(AiDALab) 대표 
 
 <div align=center>
 
