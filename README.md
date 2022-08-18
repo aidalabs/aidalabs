@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 아이다랩(AiDALab) 대표 
-- 컴퓨터 공학 박사, 세부 전공: 인공지능(AI, Artificial Intelligence)/신경망(Neural Network)/딥러닝(Deep Learning)
+- 컴퓨터 공학 박사
+  - 세부 전공: 인공지능(AI, Artificial Intelligence)/신경망(Neural Network)/딥러닝(Deep Learning)
 - 주요 관심분야
   - Neural Network/Deep Learning Model
   - Brain Science
