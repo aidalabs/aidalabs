@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - 컴퓨터 공학 박사
   - 세부 전공: 인공지능(AI)/신경망(Neural Network)/딥러닝(Deep Learning)
 - 주요 관심분야
-  1. Neural Network/Deep Learning Model
-  2. Brain Science
-  3. Quantitative(Quant) Investing / Stock Prediction
-  4. Data Science / Data Analysis
-  5. Smart Factory / Smart Home
+  - Neural Network/Deep Learning Model
+  - Brain Science
+  - Quantitative(Quant) Investing / Stock Prediction
+  - Data Science / Data Analysis
+  - Smart Factory / Smart Home
 
 <div align=center>
 
